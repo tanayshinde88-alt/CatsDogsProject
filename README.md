@@ -96,3 +96,13 @@ Use HOG or CNN features
 Try different SVM kernels
 
 Add model saving and loading
+
+
+
+Note:
+The dataset is not included due to size limits.
+Download it from: <https://github.com/tanayshinde88-alt/CatsDogsProject.git>
+Place it in the folder:
+dataset/cats
+dataset/dogs
+
