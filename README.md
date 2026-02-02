@@ -101,7 +101,7 @@ Add model saving and loading
 
 Note:
 The dataset is not included due to size limits.
-Download it from: <https://github.com/tanayshinde88-alt/CatsDogsProject.git>
+Download it from: <https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset>
 Place it in the folder:
 dataset/cats
 dataset/dogs
